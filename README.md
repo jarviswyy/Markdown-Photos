@@ -1,1 +1,1 @@
-# Markdown-Photos
+# markdown-photos
